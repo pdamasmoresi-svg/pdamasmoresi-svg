@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Pat 👋
 
-<!--
-**pdamasmoresi-svg/pdamasmoresi-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Incoming Electrical Engineering student at Louisiana State University (LSU)  
+⚡ Interested in hardware, embedded systems, and high-performance computing  
+🎾 Competitive tennis player, passionate in fitness and powerlifting, and disciplined learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building strong programming fundamentals  
+- Learning embedded systems and electronics  
+- Preparing for engineering internships  
+
+---
+
+## 🛠️ Skills (Developing)
+- Python  
+- C++ (learning)  
+- MATLAB (planned)  
+- Problem Solving  
+- Engineering Fundamentals  
+
+---
+
+## 📌 Goals for 2026
+- Build 3–5 solid engineering projects  
+- Secure first engineering internship  
+- Develop strong hardware/software foundation  
+
+---
+
+📫 Connect with me on LinkedIn!
